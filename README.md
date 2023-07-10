@@ -1,7 +1,5 @@
 <div align="center">
-<img src=![20230608_123107_036(1)](https://github.com/gonlla8777/gonlla8777/assets/89277900/eede7520-10d3-4b6a-bf5e-d653ac8baf18)
-
- align="center" style="width: 100%" />
+<img src=![20230608_123107_036(1)](https://github.com/gonlla8777/gonlla8777/assets/89277900/eede7520-10d3-4b6a-bf5e-d653ac8baf18) align="center" style="width: 100%" />
 </div>  
   
 
