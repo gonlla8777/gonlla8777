@@ -1,6 +1,6 @@
 <div align="center">
-<img src=![Anca Coder](https://github.com/gonlla8777/gonlla8777/assets/89277900/8915756c-9382-4639-9fad-23b210502c14)
-"" align="center" style="width: 100%" />
+<img src=![Anca Coder](https://github.com/gonlla8777/gonlla8777/assets/89277900/1390dfcc-0899-42de-9a60-2a319f41a009)
+ align="center" style="width: 100%" />
 </div>  
   
 
