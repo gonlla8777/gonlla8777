@@ -1,5 +1,5 @@
 <div align="center">
- <img src={![Anca Coder](https://github.com/gonlla8777/gonlla8777/assets/89277900/c7018dbc-9197-4330-934b-61411b7fcfc7)} align="center" style="width: 100%" />
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2kLYYrBT--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v0d8y2cf5ro0gfom89vp.png" align="center" style="width: 100%" />
 </div>  
   
 
