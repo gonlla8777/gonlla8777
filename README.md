@@ -1,5 +1,7 @@
 <div align="center">
-<img src=![20230608_123107_036(1)](https://github.com/gonlla8777/gonlla8777/assets/89277900/eede7520-10d3-4b6a-bf5e-d653ac8baf18) align="center" style="width: 100%" />
+  ![Anca Coder](https://github.com/gonlla8777/gonlla8777/assets/89277900/c7018dbc-9197-4330-934b-61411b7fcfc7)
+
+<img src= align="center" style="width: 100%" />
 </div>  
   
 
