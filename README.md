@@ -29,7 +29,12 @@
 <a href="https://linkedin.com/in/gonzalo-miguel-llanos-bb2b64224" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+  <br/>
+  
+### utngonzalollanos@gmail.com   <img height="35" style="margin: 0px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png?w=826&t=st=1689123768~exp=1689124368~hmac=37c327a89819605564f33d6ae9bf2e75aa70e48fa6a563fc2a82c2867d301999"/> 
 </div>  
+
+
   
 
 <br/>  
